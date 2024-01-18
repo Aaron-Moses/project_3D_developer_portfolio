@@ -47,11 +47,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm Aaron Moses, a final-year Software Engineering student at Western University, graduating in 2024. My tech career started with an internship at Digital Extremes, fueling my passion for data engineering and analytics. I'm skilled in Python, R, SQL, and cloud technologies, and I'm preparing for a career in Data Science and Engineering.
+
+        Beyond academics, I'm a varsity cheer athlete and enjoy engineering clubs and thrifting. My diverse interests bring a unique mix of discipline and creativity to my work.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
